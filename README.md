@@ -1,4 +1,4 @@
-[日本語はこちら](./README_ja-jp.txt)
+[日本語はこちら](./README_ja-jp.md)
 
 # Merge-MsgFilesToSingleTxt
 
