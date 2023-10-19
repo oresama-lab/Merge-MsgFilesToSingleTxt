@@ -1,4 +1,6 @@
-# MergeMsgFilesToSingleTxt
+[日本語はこちら](./README_ja-jp.txt)
+
+# Merge-MsgFilesToSingleTxt
 
 This PowerShell script converts all .msg files in a user-specified folder into a single .txt file using a GUI. The user can specify the location of the input folder and the output text file through folder and file selection dialogs, respectively. Once the conversion is complete, a popup message is displayed.
 
